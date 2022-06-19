@@ -1,5 +1,6 @@
 ### Fake Data Generator App
 + Generate Fake Data using Faker and Streamlit
++  http://192.168.249.78:8501
 
 
 #### Screeshot
